@@ -1,2 +1,2 @@
 # javascrip-exercises
-javascript basics exercises
+javascript basics exercises changed
